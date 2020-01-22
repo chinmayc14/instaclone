@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "975054547519",
+    "firebase_url": "https://insta-clone-5b5a1.firebaseio.com",
+    "project_id": "insta-clone-5b5a1",
+    "storage_bucket": "insta-clone-5b5a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975054547519:android:75fdbaf943754fd1e5668a",
+        "android_client_info": {
+          "package_name": "com.chinmaycc.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975054547519-2q5gn4ud8g405jned4hc88q7e596mjop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5ePnVDa8-c0ysVofPWKtpRaPwBlIJ6f8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975054547519-2q5gn4ud8g405jned4hc88q7e596mjop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
